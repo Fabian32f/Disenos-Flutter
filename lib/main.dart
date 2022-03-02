@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
       title: 'Diseños',
         initialRoute: 'basico',
       routes: {
-        'basico_Page' : (BuildContext context) => BasicoPage(),
+        'basico' : (BuildContext context) => BasicoPage(),
       },
       
     );
